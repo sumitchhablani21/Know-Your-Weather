@@ -5,6 +5,7 @@ A weather app which gives real time weather information, made using HTML, CSS & 
 <br>
 - **Implementaion**: I implemented this project using a weather API which provides real time data which updates itself every 60 minutes.
 - **Search Option**: There is a search option in the app which allows user to search weather for different cities of the world.
+- **Responsive Design**: The platform is designed to be user-friendly and accessible on different devices, including desktops, tablets, and mobile phones. Users can enjoy a seamless experience regardless of their preferred device.
 ___
 ### Tech Stacks used:
 - HTML
