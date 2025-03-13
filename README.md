@@ -8,8 +8,8 @@ A weather app which gives real time weather information, made using HTML, CSS & 
 - **Responsive Design**: The platform is designed to be user-friendly and accessible on different devices, including desktops, tablets, and mobile phones. Users can enjoy a seamless experience regardless of their preferred device.
 ___
 ### Tech Stacks used:
-- **HTML**: Standard web technology for structuring and styling the user interface.
-- **CSS**: Standard web technology for structuring and styling the user interface.
+- **HTML**: Standard web technology for structuring the user interface.
+- **CSS**: Standard web technology for styling the user interface.
 - **JavaScript**: A programming language used for client-side interactivity and functionality.
 - **API**: A set of rules and definitions that allows different software applications to communicate with each other.
 ___
