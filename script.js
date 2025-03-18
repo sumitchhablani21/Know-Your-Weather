@@ -1,3 +1,5 @@
+let city2 = document.getElementById('city2');
+
 const getWeather = (city) => {  
     const cityName = city;
 
