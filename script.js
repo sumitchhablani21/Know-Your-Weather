@@ -1,6 +1,5 @@
-let city2 = document.getElementById('city2');
-
 const getWeather = (city) => {  
+    const cityName = city;
 
     fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=5e675e02fa0bde8048172e2771f262eb`)
     .then(response => {
@@ -40,7 +39,7 @@ const getWeather = (city) => {
     })
 
     .catch((err) => {
-        city2.innerHTML = `${city2} not available`;
+        city2.innerHTML = `${cityName} not available`;
         all.innerHTML = "-";
         temp.innerHTML = "-";
         humidity.innerHTML = "-";
