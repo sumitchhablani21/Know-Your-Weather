@@ -19,4 +19,4 @@ ___
 - Updates weather every 60 minutes
 ___
 ### Hosted Application Link
-https://sumitchhablani21.github.io/Know-Your-Weather/
+https://know-your-weather.vercel.app/
